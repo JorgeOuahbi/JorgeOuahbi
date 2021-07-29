@@ -1,8 +1,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=JorgeOuahbi)
 
-Mi nombre es Jorge Ouahbi. Soy un ingeniero de software y arquitecto con una sólida experiencia en sistemas operativos.
-Los últimos años me he dedicado a los dispositivos embebidos, especialmente a los dispositivos móviles con iOS, pero también dispositivos móviles con Android.
-
 My name is Jorge Ouahbi. I"m a hardcore software engineer and software architect with strong operating system background. 
 The last few years I have dedicated myself to embedded devices, especially mobile devices with iOS, but also mobile devices with Android.
 
